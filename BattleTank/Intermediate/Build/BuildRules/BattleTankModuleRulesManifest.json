@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\Epic Games\\Projects\\UE4_COURSE_BATTLETANK\\BattleTank\\Source\\BattleTank\\BattleTank.Build.cs",
+		"F:\\Epic Games\\Projects\\UE4_COURSE_BATTLETANK\\BattleTank\\Source\\BattleTank.Target.cs",
+		"F:\\Epic Games\\Projects\\UE4_COURSE_BATTLETANK\\BattleTank\\Source\\BattleTankEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

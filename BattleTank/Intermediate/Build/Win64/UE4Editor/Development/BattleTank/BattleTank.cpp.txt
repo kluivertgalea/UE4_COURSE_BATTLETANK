@@ -1,0 +1,2 @@
+F:\Epic Games\Projects\UE4_COURSE_BATTLETANK\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h
+F:\Epic Games\Projects\UE4_COURSE_BATTLETANK\BattleTank\Source\BattleTank\BattleTank.h

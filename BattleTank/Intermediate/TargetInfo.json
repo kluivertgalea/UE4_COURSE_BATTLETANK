@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleTank",
+			"Path": "F:\\Epic Games\\Projects\\UE4_COURSE_BATTLETANK\\BattleTank\\Source\\BattleTank.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleTankEditor",
+			"Path": "F:\\Epic Games\\Projects\\UE4_COURSE_BATTLETANK\\BattleTank\\Source\\BattleTankEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
